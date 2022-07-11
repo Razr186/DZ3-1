@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\HOmework\bin\Debug\net6.0\HOmework.exe
+C:\Users\User\Desktop\Учеба\HOmework\bin\Debug\net6.0\HOmework.deps.json
+C:\Users\User\Desktop\Учеба\HOmework\bin\Debug\net6.0\HOmework.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\HOmework\bin\Debug\net6.0\HOmework.dll
+C:\Users\User\Desktop\Учеба\HOmework\bin\Debug\net6.0\HOmework.pdb
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.dll
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\refint\HOmework.dll
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.pdb
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\HOmework.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\HOmework\obj\Debug\net6.0\ref\HOmework.dll
